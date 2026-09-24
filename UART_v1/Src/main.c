@@ -61,7 +61,6 @@ int main(void) {
 
 		*USART2_DR = 'S';
 
-		break;
 	}
 
 
